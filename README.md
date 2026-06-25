@@ -5,6 +5,7 @@ Computer Engineering student at Toronto Metropolitan University, building softwa
 </p>
 
 <p align="center">
+  <a href="https://sukhmanaulakh.github.io"><img src="https://img.shields.io/badge/Portfolio-sukhmanaulakh.github.io-b7f34a?style=for-the-badge&logo=githubpages&logoColor=0b0f0d" alt="Portfolio website" /></a>
   <a href="mailto:sukhmanjot.aulakh@torontomu.ca"><img src="https://img.shields.io/badge/Email-sukhmanjot.aulakh%40torontomu.ca-0b0f0d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/sukhmanjot-aulakh"><img src="https://img.shields.io/badge/LinkedIn-Sukhmanjot%20Aulakh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/SukhmanAulakh?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
@@ -56,6 +57,7 @@ That is the kind of work I want to keep doing: practical systems, thoughtful int
 
 | Link | Where it goes |
 | --- | --- |
+| [Portfolio](https://sukhmanaulakh.github.io) | Personal website with projects, experience, and resume |
 | [LinkedIn](https://www.linkedin.com/in/sukhmanjot-aulakh) | Professional background and updates |
 | [Email](mailto:sukhmanjot.aulakh@torontomu.ca) | Best way to reach me directly |
 | [GitHub repositories](https://github.com/SukhmanAulakh?tab=repositories) | More projects and experiments |
